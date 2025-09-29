@@ -1,0 +1,17 @@
+{
+  "name": "lab2_example_app",
+  "version": "1.1.0",
+  "description": "Exemplu diferit pentru Docker + Node.js pe port 4000",
+  "author": "Grozav Nichita <grozav.nichita@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
