@@ -1,4 +1,8 @@
 this is a new feature!!!
 
 
+<<<<<<< HEAD
 q
+=======
+q
+>>>>>>> new_branch
